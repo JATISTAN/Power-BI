@@ -45,8 +45,5 @@ This project showcases the ability to analyze survey data and visualize it in a 
 
 
 ---
-
-This portfolio provides a comprehensive description of your **Power BI** project, showcasing your ability to work with data, create meaningful visualizations, and present insights through an interactive dashboard. The dashboard image will allow potential employers or collaborators to explore your work in more detail
-
 ---
 
