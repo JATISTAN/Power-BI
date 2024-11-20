@@ -3,7 +3,7 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 
 ---
 
-## **Project: Data Professional Survey Breakdown - Power BI**
+## **Project: Data Professional Survey Breakdown Insights - Power BI**
 
 This project presents a comprehensive analysis of a **Data Professional Survey** using **Power BI**. The dataset provides valuable insights into various aspects of the data industry, such as job roles, salaries, skills, and career growth. This project demonstrates how to transform raw survey data into dynamic, interactive visualizations, offering a deeper understanding of the trends and patterns within the data industry.
 
@@ -35,7 +35,7 @@ The goal of this project is to analyze and visualize the results of a survey of 
 ### **Dashboard Image**
 Here’s a screenshot of the interactive Power BI dashboard:
 
-![Power BI Dashboard - Data Professional Survey Breakdown](image2/0.png)
+![Power BI Dashboard - Data Professional Survey Breakdown Insights](image2/0.png)
 
 ### **Project Outcome**
 This Power BI dashboard provides a detailed view of the data industry based on the survey responses. It offers a user-friendly way to explore job trends, salary expectations, and career growth patterns. By leveraging interactivity, users can drill down into specific areas to uncover more detailed insights, making this a powerful tool for both career development and organizational strategy.
