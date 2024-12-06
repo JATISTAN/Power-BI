@@ -1,8 +1,5 @@
-# Power-BI
-This repository contains a Power BI dashboard designed to visualize and analyze ,describe the data or business problems. The dashboard includes various insights and interactive elements to help users explore the data.
 
----
-# Power BI Projects Overview  
+# Power BI Projects 
 
 This repository contains Power BI dashboards designed to visualize and analyze various business scenarios. The dashboards incorporate advanced data transformation, dynamic visualizations, and interactive features, providing actionable insights to help users explore the data effectively.  
 
@@ -176,11 +173,6 @@ This Power BI project focuses on analyzing Amazon product-wise sales data. The g
 
 ---
 
-### **Interactive Dashboard Link**
-Explore the interactive dashboard on Power BI Service:  
-[Amazon Product Sales Explorer Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzgwMTJkM2MtYzliZC00NDFiLTg5ZDEtYzE4NzI5OGZiYzMwIiwidCI6IjJjMjM5MGE2LTIwMGYtNDg5ZC04MzRhLTVmOGNkZjY1Y2E0MSJ9)
-
----
 
 ### **Key Skills Demonstrated**
 - Advanced data transformation and cleaning with Power Query.
