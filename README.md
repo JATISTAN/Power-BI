@@ -7,6 +7,7 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 This repository contains Power BI dashboards designed to visualize and analyze various business scenarios. The dashboards incorporate advanced data transformation, dynamic visualizations, and interactive features, providing actionable insights to help users explore the data effectively.  
 
 ---
+---
 
 ## **Projects List**  
 1. [Data Professional Survey Breakdown Insights](#project-data-professional-survey-breakdown-insights---power-bi)  
@@ -14,11 +15,13 @@ This repository contains Power BI dashboards designed to visualize and analyze v
 
 ---
 
+## **Project 1:**
+
 ## **Project: Data Professional Survey Breakdown Insights - Power BI**
 
 This project presents a comprehensive analysis of a **Data Professional Survey** using **Power BI**. The dataset provides valuable insights into various aspects of the data industry, such as job roles, salaries, skills, and career growth. This project demonstrates how to transform raw survey data into dynamic, interactive visualizations, offering a deeper understanding of the trends and patterns within the data industry.
 
-### **Project Overview**
+### **Overview**
 The goal of this project is to analyze and visualize the results of a survey of data professionals using Power BI. By exploring job roles, salary trends, skills in demand, and other critical factors, the dashboard provides actionable insights for both job seekers and employers in the data industry.
 
 ### **Key Visualizations**
@@ -58,7 +61,7 @@ This project showcases the ability to analyze survey data and visualize it in a 
 ---
 ---
 
-
+## **Project 2:**
 ## **Amazon Product Sales Insights Dashboard**
 
 This Power BI project focuses on analyzing Amazon product-wise sales data. The goal was to create an interactive and visually rich dashboard that provides valuable insights into product performance across various regions, categories, and time periods. The dashboard incorporates advanced data transformation, user interactivity, and storytelling through dynamic visualizations.
@@ -146,12 +149,30 @@ This Power BI project focuses on analyzing Amazon product-wise sales data. The g
 
 ---
 
-### **Dashboard Screenshots**
-- **Image 1: Overview of Sales by Product Categories**
-  (Placeholder for Image 1 - Dashboard Screenshot)
+  ### **Dashboard Screenshots**  
+- **Page 1: Overview**  
+  (Placeholder for Page 1 - Dashboard Screenshot: Overview of overall sales performance, key metrics, and trends.)
+    ![Page 1 - Overview](image2/overview.png)
+  
+  ---  
 
-- **Image 2: Regional Sales Trends and Product Insights**
-  (Placeholder for Image 2 - Dashboard Screenshot)
+- **Page 2: Product Insights**  
+  (Placeholder for Page 2 - Dashboard Screenshot: Detailed insights into product categories, revenue distribution, and performance trends.)
+     ![Page 2 - Overview](image2/product.png)
+  
+  ---    
+
+- **Page 3: Product View**  
+  (Placeholder for Page 3 - Dashboard Screenshot: Individual product analysis, including sales performance, profitability, and customer ratings.)
+     ![Page 3 - Overview](image2/product_view.png)
+  
+  ---    
+
+- **Page 4: Product Tooltip**  
+  (Placeholder for Page 4 - Dashboard Screenshot: Interactive tooltips displaying additional product details and contextual insights on hover.)
+     ![Page 4 - Overview](image2/producttip.png)
+    
+
 
 ---
 
@@ -170,7 +191,7 @@ Explore the interactive dashboard on Power BI Service:
 
 ---
 
-This project showcases my expertise in Power BI, emphasizing advanced data analysis, user interaction, and effective visualization techniques. The **Amazon Product Sales Explorer Dashboard** provides business stakeholders with clear insights into product performance, enabling data-driven decision-making.
+This project showcases my expertise in Power BI, emphasizing advanced data analysis, user interaction, and effective visualization techniques. The **Amazon Product Sales Insights Dashboard** provides business stakeholders with clear insights into product performance, enabling data-driven decision-making.
 
 
 ---
